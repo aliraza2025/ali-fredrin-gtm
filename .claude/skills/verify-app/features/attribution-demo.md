@@ -1,0 +1,2 @@
+# Attribution demo (`#demo`, `capture.js`, `app.js`)
+Check: demo link gives hackernews / application / fredrin; reload keeps it and adds a page_view; reset empties it and leaves other storage alone; new context starts fresh; hostile utm values render as text (no injected nodes), max 80 chars; referrer shows hostname only; blocked sessionStorage still counts clicks in memory; CTA clicks are logged and links still navigate (not defaultPrevented). The honest note text must be present verbatim.

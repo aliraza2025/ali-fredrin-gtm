@@ -1,0 +1,2 @@
+# Contact and CV link (`.cv-link`, `#contact`)
+Exact URLs: mailto:axraza55@gmail.com ; mailto:axraza55@gmail.com?subject=Fredrin%20GTM%20Engineer%20CV ; https://www.alirazaai.page/crediclip ; https://www.alirazaai.page/ ; https://www.linkedin.com/in/ali-raza-2548880/ ; https://github.com/aliraza2025 ; https://github.com/aliraza2025/ali-fredrin-gtm. No phone, PDF or visa text. Footer build note present.
